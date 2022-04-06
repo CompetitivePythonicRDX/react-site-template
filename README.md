@@ -1,2 +1,2 @@
-# react-site-template
-Simple react lading page
+npm install react-icons --save
+npm i swiper
